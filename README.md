@@ -22,13 +22,13 @@
 
 ### 💼 What I Build
 
-- Enterprise CRM & business management systems
-- Theatre ticketing and booking platforms
-- Loan management system
-- University management system
-- Custom CRM with Ticketing system
-- HR System with payroll
-- Customer, invoicing and payment workflows
+- Enterprise CRM & Business Management Systems
+- Theatre Ticketing & Booking Platforms
+- Loan Management Systems
+- University Management Systems
+- Custom CRM & Ticketing Solutions
+- HR & Payroll Management Systems
+- Customer, Invoicing & Payment Workflows
 
 ### 📌 Areas of Expertise
 
