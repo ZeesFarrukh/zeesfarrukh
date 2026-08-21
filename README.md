@@ -30,6 +30,19 @@
 - HR & Payroll Management Systems
 - Customer, Invoicing & Payment Workflows
 
+## Featured Projects
+
+### InventorySystem
+Enterprise-style Inventory & Warehouse Management System built with .NET 8, Angular, SQL Server, Clean Architecture, and CQRS.
+
+[View Repository](https://github.com/ZeesFarrukh/InventorySystem)
+
+### dotnet-angular-crm
+Full-stack CRM and business management system built with ASP.NET Core, Angular, SQL Server, and Clean Architecture.
+
+[View Repository](https://github.com/ZeesFarrukh/dotnet-angular-crm)
+
+
 ### 📌 Areas of Expertise
 
 - Application Architecture
