@@ -57,5 +57,4 @@ Full-stack CRM and business management system built with ASP.NET Core, Angular, 
 
 ### 📫 Connect With Me
 
-- Upwork: [My Upwork Profile](YOUR_UPWORK_LINK)
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_LINK)
+- Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~0153d372791234fd97?mp_source=share)
